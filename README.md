@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shravan-parikh&label=Profile%20views&color=0e75b6&style=flat" alt="Shravan-parikh" /> </p>
 
-- 👨‍💻 More about me on my personal website: [ShravanParikh.tech](www.shravanparikh.tech)
+- 👨‍💻 More about me on my personal website: [ShravanParikh.tech](http://www.shravanparikh.tech)
 - 📁 My resume:[link](https://drive.google.com/file/d/1xrTUv8ekaqQiDoriWOAMZBESlTbqwVZn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
