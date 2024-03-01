@@ -1,26 +1,48 @@
 <h1 align="center">Hi 👋, I'm Shravan Parikh</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">I am passionate about solving problems using software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shravan-parikh&label=Profile%20views&color=0e75b6&style=flat" alt="Shravan-parikh" /> </p>
 
-- 👨‍💻 More about me on my personal website: [ShravanParikh.tech](http://www.shravanparikh.tech)
-- 📁 My resume: [Resume](https://drive.google.com/file/d/1xrTUv8ekaqQiDoriWOAMZBESlTbqwVZn/view?usp=sharing)
+🌐 I’m currently learning about LLM's and fine tuning LLMs and using them serverless .  
+🤖 I have working experience in Backend Software Development.  
+👨‍💻 More about me on my personal website: [ShravanParikh.tech](http://www.shravanparikh.tech)
+📁 My resume: [Resume](https://drive.google.com/file/d/1xrTUv8ekaqQiDoriWOAMZBESlTbqwVZn/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+-----
+
+* 🌍  I'm based in India.  
+* ✉️ You can contact me at [parikhshravan@gmail.com](mailto:parikhshravan@gmail.com).  
+* 🤝  I'm open to collaborating on interesting projects that have real world implementations.
+
+
+---
+
+<a href="https://www.twitter.com/parikh_shravan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/shravan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+/></a>
+
+
+### Skills
+
 <p align="left">
-<a href="https://www.linkedin.com/in/shravan-parikh-311767215/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aavila0707" height="30" width="40" /></a>
-<!-- <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alejandro-ao" height="30" width="40" /></a> -->
-<!--   <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aavila0707" height="30" width="40" /></a> -->
-<a href="https://github.com/Shravan-Parikh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="alejandro ao - learn to code" height="30" width="40" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-<!-- <p align="left">  -->
-<!--  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
-<!--   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  </a> 
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,python,java,html,css,js,django,react,github,postman,mysql,postgresql,mongodb,gcp,figma,git=8" />
-  </a> -->
-<!--  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> -->
-</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/shravan-parikh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shravan-parikh-311767215/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/parikh_shravan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+
+<b>My GitHub Stats</b>
+
+<p align="center"> <a href="http://www.github.com/shravan-parikh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shravan-parikh&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
