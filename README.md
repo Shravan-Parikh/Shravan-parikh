@@ -5,8 +5,7 @@
 
 🌐 I’m currently learning about LLM's and fine tuning LLMs and deploying serverless .  
 🤖 I have working experience in Backend Software Development.  
-👨‍💻 More about me on my personal website: [ShravanParikh.tech](http://www.shravanparikh.tech)
-
+👨‍💻 More about me on my personal website: [ShravanParikh.tech](http://www.shravanparikh.tech.
 📁 My resume: [Resume](https://drive.google.com/file/d/1xrTUv8ekaqQiDoriWOAMZBESlTbqwVZn/view?usp=sharing)
 
 -----
