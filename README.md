@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shravan-parikh&label=Profile%20views&color=0e75b6&style=flat" alt="Shravan-parikh" /> </p>
 
-🌐 I’m currently learning about LLM's and fine tuning LLMs and deploying serverless .  
+🌐 I’m currently learning about LLM's and fine tuning LLMs for specific use-cases.  
 🤖 I have working experience in Backend Software Development.  
 👨‍💻 More about me on my personal website: [ShravanParikh.tech](http://www.shravanparikh.tech). </br>
 📁 My resume: [Resume](https://drive.google.com/file/d/1xrTUv8ekaqQiDoriWOAMZBESlTbqwVZn/view?usp=sharing)
