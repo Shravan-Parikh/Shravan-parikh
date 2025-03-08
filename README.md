@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shravan-parikh&label=Profile%20views&color=0e75b6&style=flat" alt="Shravan-parikh" /> </p>
 
-🔥 Passionate about building scalable web apps & optimizing system architectures
-💻 Love working with React, Node.js, TypeScript, PostgreSQL, MongoDB, AWS
-🔭 Currently developing web applications & experimenting with AI Integrations
-💡 Always learning about high-performance backend systems & cloud computing
-💬 Ask me about React, Distributed Systems, Cloud Infrastructure, or System Design 
+🔥 Passionate about building scalable web apps & optimizing system architectures </br>
+💻 Love working with React, Node.js, TypeScript, PostgreSQL, MongoDB, AWS </br>
+🔭 Currently developing web applications & experimenting with AI Integrations </br>
+💡 Always learning about high-performance backend systems & cloud computing </br> 
+💬 Ask me about React, Distributed Systems, Cloud Infrastructure, or System Design </br>
 👨‍💻 More about me on my personal website: [ShravanParikh.tech](http://www.shravanparikh.tech). </br>
 📁 My resume: [Resume](https://drive.google.com/file/d/1xrTUv8ekaqQiDoriWOAMZBESlTbqwVZn/view?usp=sharing)
 
