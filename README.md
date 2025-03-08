@@ -8,7 +8,7 @@
 🔭 Currently developing web applications & experimenting with AI Integrations </br>
 💡 Always learning about high-performance backend systems & cloud computing </br> 
 💬 Ask me about React, Distributed Systems, Cloud Infrastructure, or System Design </br>
-👨‍💻 More about me on my personal website: [ShravanParikh.tech](http://www.shravanparikh.tech). </br>
+👨‍💻 More about me on my personal website: [ShravanParikh.tech](https://shravan-parikh.vercel.app/). </br>
 📁 My resume: [Resume](https://docs.google.com/document/d/1rQbr_6xpEnfcGewuMOEN1lqbGXATY1XddiuK_Jgb5as/edit?usp=sharing)
 
 -----
