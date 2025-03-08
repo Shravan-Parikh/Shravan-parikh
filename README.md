@@ -9,7 +9,7 @@
 💡 Always learning about high-performance backend systems & cloud computing </br> 
 💬 Ask me about React, Distributed Systems, Cloud Infrastructure, or System Design </br>
 👨‍💻 More about me on my personal website: [ShravanParikh.tech](http://www.shravanparikh.tech). </br>
-📁 My resume: [Resume](https://drive.google.com/file/d/1xrTUv8ekaqQiDoriWOAMZBESlTbqwVZn/view?usp=sharing)
+📁 My resume: [Resume](https://docs.google.com/document/d/1rQbr_6xpEnfcGewuMOEN1lqbGXATY1XddiuK_Jgb5as/edit?usp=sharing)
 
 -----
 
