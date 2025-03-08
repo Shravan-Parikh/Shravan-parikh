@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shravan-parikh&label=Profile%20views&color=0e75b6&style=flat" alt="Shravan-parikh" /> </p>
 
-🌐 I’m currently learning about LLM's and fine tuning LLMs for specific use-cases.  
-🤖 I have working experience in Backend Software Development.  
+🔥 Passionate about building scalable web apps & optimizing system architectures
+💻 Love working with React, Node.js, TypeScript, PostgreSQL, MongoDB, AWS
+🔭 Currently developing web applications & experimenting with AI Integrations
+💡 Always learning about high-performance backend systems & cloud computing
+💬 Ask me about React, Distributed Systems, Cloud Infrastructure, or System Design 
 👨‍💻 More about me on my personal website: [ShravanParikh.tech](http://www.shravanparikh.tech). </br>
 📁 My resume: [Resume](https://drive.google.com/file/d/1xrTUv8ekaqQiDoriWOAMZBESlTbqwVZn/view?usp=sharing)
 
